@@ -1,1 +1,1 @@
-# work-management-fe
+# Flowst Go - Your Workflow On the Go
